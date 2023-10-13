@@ -20,7 +20,7 @@ To build the connector, you must have the following installed:
 
 Clone the repository with the following command:
 ```
-git clone https://github.com/johanvandevenne/kafka-connect-mqtt.git
+git clone https://github.com/gavinheale/kafka-connect-mqtt.git
 ```
 Change directory into the `kafka-connect-mqtt` directory
 ```
